@@ -6,8 +6,7 @@ It presents my profile, skills, projects, education, experience, and includes a 
 ---
 
 ## 🚀 Live Demo
-👉 **https://mohammadkhateebcv.vercel.app**  
-*(Once deployed to Vercel)*
+👉 **[https://mohammadkhateebcv.vercel.app](https://mohammad-khateeb-cv.vercel.app/)**  
 
 ---
 
@@ -67,19 +66,6 @@ MohammadKhateebCV/ <br/>
 - **Responsive Media Queries**
 - **Schema.org Microdata**
 
----
-
-## 📦 Deployment (Vercel)
-
-1. Go to **https://vercel.com**  
-2. Import this repo:  
-   👉 https://github.com/mhmdkh1905/MohammadKhateebCV  
-3. Build settings:
-   - **Framework**: None (Static Site)
-   - **Output Directory**: `/`
-4. Click **Deploy**
-
-Your site will go live in seconds 🎉
 
 ---
 
